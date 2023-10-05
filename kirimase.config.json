@@ -1,0 +1,14 @@
+{
+  "hasSrc": true,
+  "packages": [
+    "drizzle",
+    "clerk",
+    "shadcn-ui"
+  ],
+  "preferredPackageManager": "npm",
+  "rootPath": "src/",
+  "driver": "pg",
+  "provider": "neon",
+  "orm": "drizzle",
+  "auth": "clerk"
+}
